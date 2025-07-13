@@ -13,5 +13,5 @@ int main() {
             N /= i;
         }
     }
-
+    return 0;
 }
